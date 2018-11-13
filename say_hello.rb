@@ -1,2 +1,3 @@
 # Build your say_hello method here
-def persons_name
+def say_hello(name)
+  puts 
